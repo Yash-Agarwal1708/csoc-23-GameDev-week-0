@@ -1,6 +1,6 @@
 # CSOC22-Week0-Unity
-Repo containing info about installation process of Unity game engine 
-Unity is game engine which we will be using to create our games.
+Repo containing info about installation process of Unity game engine. 
+Unity is a game engine which we will be using to create our games.
 
 Note: It is preffered to install unity on Mac or Windows only. Installation on linux can become a bit complicated.
 
