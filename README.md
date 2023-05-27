@@ -12,18 +12,19 @@ In order to install Unity you need to follow the following steps:
 3. Locate the installer file and start the installer.
 4. Just keep everything default and click on next.
 After the installation is completed open the unity hub and you should have the following window opened up.
-![unity hub interface](https://user-images.githubusercontent.com/87766488/169689282-961e7363-91bb-4788-a6de-33df279e01ba.png)
+![Screenshot (899)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-0/assets/103818600/0f8508e6-afcd-4052-9284-8fcb99319549)
 
 Congrats you have succesfully installed Unity Hub.
 
 Now to install Unity Editor Go to installs section and click on Install editor button.
-![install page of unity hub](https://user-images.githubusercontent.com/87766488/169689768-a32a8de2-bcb1-4ecf-9178-010adeda2ad4.png)
+![Screenshot (900)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-0/assets/103818600/9af3c3cf-0f93-4479-930e-77e6a03de2ed)
 Click on the install button beside the recommended version under LONG TERM SUPPORT(LTS) under offial releases tab. 
 The recommended version is generally more stable and with less chances of crashes.
+![Screenshot (901)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-0/assets/103818600/489836d9-88ac-478a-9f01-8cacb8d5984c)
 
 When you get to this screen, make sure that the checkbox in front of “Microsoft Visual Studio Community 2019” is unchecked. We would be using vscode to code our game.
 
-![unity installation page](https://user-images.githubusercontent.com/87766488/169690405-f46e22ef-d64c-44d9-8f0e-0241de892a30.png)
+![Screenshot (902)](https://github.com/Yash-Agarwal1708/csoc-23-GameDev-week-0/assets/103818600/cc4b822d-b4b4-4ac4-aa06-e89d6f0d00b4)
 
 Now click on install and sit back and relax.
 You can also watch [this](https://www.youtube.com/watch?v=ewiw2tcfen8) video if have any confusion in the process
